@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-Crawl-delay: 1
-Allow: /
-Sitemap: https://gms-knowledge-base-fe.vercel.app/sitemap.xml
