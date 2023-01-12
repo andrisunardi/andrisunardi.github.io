@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.418e4348.css",
-    "main.js": "./static/js/main.f91e3857.js",
+    "main.js": "./static/js/main.030e4076.js",
     "static/js/787.1aebfb45.chunk.js": "./static/js/787.1aebfb45.chunk.js",
     "static/media/event-closed.png": "./static/media/event-closed.8f24282e3668ee0df4d4.png",
     "static/media/carousel-3.png": "./static/media/carousel-3.c22f9afb4fc4c671ce43.png",
     "static/media/carousel-2.png": "./static/media/carousel-2.d1df6cc23b4303cf58d5.png",
     "static/media/carousel-1.png": "./static/media/carousel-1.244ee24ebdd7e42de8f9.png",
-    "static/media/logo-square.png": "./static/media/logo-square.2a2eca6ccc0447fe7a45.png",
     "static/media/logo-gereja-mawar-sharon.png": "./static/media/logo-gereja-mawar-sharon.78d7c0e380a6cdd1fc0b.png",
     "static/media/logo.png": "./static/media/logo.a79263d8f0e4ba717a53.png",
     "static/media/image-not-available.png": "./static/media/image-not-available.d09e503817275d6b9eb4.png",
     "index.html": "./index.html",
     "main.418e4348.css.map": "./static/css/main.418e4348.css.map",
-    "main.f91e3857.js.map": "./static/js/main.f91e3857.js.map",
+    "main.030e4076.js.map": "./static/js/main.030e4076.js.map",
     "787.1aebfb45.chunk.js.map": "./static/js/787.1aebfb45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.418e4348.css",
-    "static/js/main.f91e3857.js"
+    "static/js/main.030e4076.js"
   ]
 }
