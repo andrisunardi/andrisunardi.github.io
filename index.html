@@ -11,7 +11,11 @@
 <body>
     <script>
         const code = new URLSearchParams(window.location.search).get("code");
-        window.location = "https://servolution.my.id/?code=" + code;
+        if (code) {
+            window.location = "https://servolution.my.id/?code=" + code;
+        } else {
+            window.location = "https://accounts.gms.church/oauth/authorize?response_type=code&client_id=170c34ef8248a8397184b8e929b68ca0&redirect_uri=https://andrisunardi.github.io&scope=profile%2Ccontact%2Ccertificates%2Ccg&state=1";
+        }
     </script>
 </body>
 
