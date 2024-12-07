@@ -13,7 +13,7 @@
         const code = new URLSearchParams(window.location.search).get("code");
         if (code) {
             // window.location = "http://localhost:8000/?code=" + code;
-            window.location = "https://wb.andrisunardi.com/?code=" + code;
+            window.location = "https://queue.andrisunardi.com/?code=" + code;
         } else {
             window.location = "https://accounts.gms.church/oauth/authorize?response_type=code&client_id=170c34ef8248a8397184b8e929b68ca0&redirect_uri=https://andrisunardi.github.io&scope=profile%2Ccontact%2Ccertificates%2Ccg&state=1";
         }
